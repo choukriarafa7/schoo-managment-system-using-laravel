@@ -1,0 +1,60 @@
+<?php
+
+return [
+
+    'personal_information' => 'المعلومات الشخصية',
+    'name' => 'اسم الطالب',
+    'name_ar' => 'الاسم باللغة العربية',
+    'name_en' => 'الاسم باللغة الانجليزية',
+    'email' => 'البريد الالكتروني',
+    'password' => 'كلمة المرور',
+     'gender' => 'النوع',
+     'confirm' => 'تاكيد',
+     'confirm' => 'سندت الصرف',
+     'exclude fee' => 'استبعاد رسوم',
+     'voucher exchange' => 'سندات القبض',
+     'Back Student' => 'ارجاع الطالب',
+     'Back All Student' => 'تراجع الكل',
+     'study fees' => 'الرسوم الدراسية',
+     'Invoices' => 'الفواتير',
+     'Delete Student' => 'حذف الطالب',
+     'previous school stage' => 'المرحلة الدراسية السابقة',
+    'academic year' => 'السنة الدراسية',    
+    'previous class' => 'الصف الدراسي السابق ',    
+    'Previous academic section' => 'القسم الدراسي السابق',    
+    'Current grade level' => 'المرحلة الدراسية الحالي ',    
+    'current school year' => 'السنة الدراسية الحالية ',    
+    'current class' => 'الصف الدراسي الحالي',    
+    'The current academic section' => 'القسم الدراسي الحالي  ',
+    'student_data' => 'لاتوجد بيانات في جدول الطلاب',
+
+     'Nationality' => 'الجنسية',
+     'blood_type' => 'فصلية الدم',
+     'Date_of_Birth' => 'تاريخ الميلاد',
+     'Student_information' => 'معلومات الطالب',
+     'Grade' => 'المرحلة الدراسية',
+     'old_school_stage' => 'المرحلة الدراسية القديمة',
+     'new_school_stage' => 'المرحلة الدراسية القديمة',
+     'classrooms' => 'الصف الدراسي',
+     'section' => 'القسم',
+     'parent' => 'ولي الامر',
+     'academic_year' => 'السنة الدراسية',
+     'Processes' => 'العمليات',
+     'submit' => 'تاكيد',
+     'Close' => 'اغلاق',
+    'Attachments' => 'المرفقات',
+    'Student_details' => 'معلومات الطالب',
+    'Deleted_Student' => 'حذف بيانات الطالب',
+    'Deleted_Student_tilte' => 'هل انت متأكد من حذف الطالب ؟',
+    'Delete_attachment' => 'حذف مرفق',
+    'Delete_attachment_tilte' => 'هل انت متأكد من حذف المرفق ؟',
+    'filename' => 'اسم الملف',
+    'created_at' => 'تاريخ الاضافة',
+    'Download' => 'تحميل',
+    'delete' => 'حذف',
+
+
+
+
+
+];

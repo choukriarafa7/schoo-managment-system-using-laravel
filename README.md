@@ -16,7 +16,16 @@ many more......
 ### Screenshots :
 
 Admin Side
-<!-- ![screencapture-e-shop-loc-admin-2020-08-15-15_47_37](https://user-images.githubusercontent.com/29488275/90719413-13b82200-e2d4-11ea-8ca0-f0e5551c4c9d.png) -->
+![admin side](https://github.com/choukriarafa7/schoo-managment-system-using-laravel/assets/96987734/f233e262-df44-49a1-be20-1d8213a51aba)
+
+Parent Side
+![parent side](https://github.com/choukriarafa7/schoo-managment-system-using-laravel/assets/96987734/309e9bf1-53c8-4633-82bd-2769fa0a7fb1)
+
+Student Side
+![student side](https://github.com/choukriarafa7/schoo-managment-system-using-laravel/assets/96987734/dc5c6d15-eb80-4f87-9d5f-ed05905d9547)
+
+Teacher Side
+![Teacher side](https://github.com/choukriarafa7/schoo-managment-system-using-laravel/assets/96987734/aaca05a5-e51f-4145-af0f-a5b5a135bc44)
 
 
 

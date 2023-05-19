@@ -11,6 +11,21 @@
 - Examination Management (pass the exame online, degree ..)
 many more......
 
+ Admin
+ choukri.arafa@gamil.com
+ 12341234
+
+ Parent 
+ Hassan-Hassan@gmail.com
+ 11111111
+
+ Student 
+ Soufian_Latif@gmail.com
+ 11111111
+ 	
+ Teacher 
+ Teacher1@gmail.com
+ 11111111
 
 
 ### Screenshots :
